@@ -1,7 +1,7 @@
 # Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
-[Studious](
+# ["Studious - best online education provider" website using microsoft technology](https://icy-river-0f28d5100.3.azurestaticapps.net)
 
 Project Link:- https://icy-river-0f28d5100.3.azurestaticapps.net
 
@@ -44,6 +44,7 @@ Primary Azure Technology : Static Web Apps, Web Apps
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/93502957/235979017-4bfaf3d5-3748-4116-85e5-55b181101c7d.png)
 
+![Screenshot (34)](https://user-images.githubusercontent.com/93502957/235979930-3f591721-0baa-4cd5-ab89-faf845393fcc.png)
 
 
 
