@@ -1,6 +1,8 @@
 # Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
+[Studious](
+
 Project Link:- https://icy-river-0f28d5100.3.azurestaticapps.net
 
 Web Technologies used : HTML5, CSS3, JS, Bootstrap4
@@ -32,4 +34,16 @@ Working contact form
 
 Primary Azure Technology : Static Web Apps, Web Apps
 
-#Screenshots
+# Screenshot:-
+
+![Screenshot (30)](https://user-images.githubusercontent.com/93502957/235978446-c146b465-2bcd-4c35-ac31-1ad87b91dcd5.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/93502957/235978849-783b61ba-3dcd-476f-96d2-45f0f2496278.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/93502957/235978928-70d46c14-cb85-452b-8788-d1970a8d5358.png)
+
+![Screenshot (33)](https://user-images.githubusercontent.com/93502957/235979017-4bfaf3d5-3748-4116-85e5-55b181101c7d.png)
+
+
+
+
