@@ -1,4 +1,4 @@
-# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+# Project 1
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
 # ["Studious - best online education provider" website using microsoft technology](https://icy-river-0f28d5100.3.azurestaticapps.net)
